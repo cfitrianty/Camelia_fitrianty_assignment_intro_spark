@@ -1,6 +1,4 @@
-# Assignment_intro_spark
-
-## Assignment Day 6 - Intro Spark
+# Assignment Day 6 - Intro Spark
 - Nama : Camelia Fitrianty
 - Tools : Visual Studio Code
 
